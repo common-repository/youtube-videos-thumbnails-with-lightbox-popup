@@ -1,0 +1,6 @@
+.pa-youtubethumb-list { list-style:none; display:block; float:left; margin:0 !important; padding:0 !important;}
+.pa-youtubethumb-list li { position: relative; list-style:none; display:block; float:left; margin:0; padding:0 !important;}
+.pa-youtube-thumbnails {}
+.pa-youtube-thumbnails a { z-index:5; display:inline-block; height:auto; width:auto; outline:none; text-decoration:none;}
+.pa-youtube-thumbnails img { border:2px solid #000;margin:0; padding:0; }
+.pa-video-play { position:absolute; z-index:2; float:right; font-weight:bold; text-align:right; right:2px; padding:0 2px 0 2px; bottom:2px !important; display:block; background:#000; opacity: 0.8;filter: alpha(opacity=80);border-top-left-radius: 4px; -moz-border-radius-topleft: 4px; -webkit-border-top-left-radius: 4px;}
